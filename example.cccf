@@ -1,4 +1,4 @@
-Settings (text without double colon as the first characters are ignored by the parser)
+Settings (text without double colon ignored by the parser)
 
 - Age::68
 

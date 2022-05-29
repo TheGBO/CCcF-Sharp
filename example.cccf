@@ -1,5 +1,7 @@
-# Settings (this is a comment)
+Settings (text without double colon as the first characters are ignored by the parser)
 
-- Age::17
+- Age::68
 
-- Name::"This is a string"
+- Name::Stringson Jouniour the Third
+
+- FavoriteFood::pizzer

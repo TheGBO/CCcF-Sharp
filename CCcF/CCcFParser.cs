@@ -10,10 +10,6 @@ namespace CCcF
             this.content = content;
         }
 
-        public void SetContentFromFile(string filePath){
-            this.content = File.ReadAllText(filePath);
-        }
-
         public string GetString(string field){
             Match match = Regex.Match(this.content, field+@"::(.*)");
             string toParse = match.Groups[1].Value;

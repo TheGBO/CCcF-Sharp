@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>AppLogger</PackageId>
+    <PackageId>CCcFSharp</PackageId>
     <Version>0.0.1</Version>
     <Authors>TheGBO</Authors>
     <Company>TheGBO</Company>

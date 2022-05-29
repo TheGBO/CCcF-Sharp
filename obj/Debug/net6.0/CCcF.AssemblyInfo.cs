@@ -12,11 +12,13 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheGBO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Library for parsing cccf files")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CCcF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CCcF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/TheGBO/CCcF-Sharp")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 

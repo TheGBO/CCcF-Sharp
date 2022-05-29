@@ -2,6 +2,8 @@
 
 NOTE: this is the C# version, but it can be easily implemented in any language like JS, Python, Java or C/C++
 
+Get it on Nuget : https://www.nuget.org/packages/CCcF-Sharp
+
 ## Quick Example
 
 ```

@@ -5,10 +5,16 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>CCcFSharp</PackageId>
+    <PackageId>CCcF-Sharp</PackageId>
     <Version>0.0.1</Version>
+    <Description>Library for parsing cccf files, a file format that i made</Description>
     <Authors>TheGBO</Authors>
     <Company>TheGBO</Company>
+    <PackageLicenseExpression>WTFPL</PackageLicenseExpression>
+    <Tags>Parsing, file format</Tags>
+    <Language>C#</Language>
+    <Title>CCcF Sharp</Title>
+    <RepositoryUrl>https://github.com/TheGBO/CCcF-Sharp</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 

@@ -10,10 +10,6 @@ namespace CCcF
             this.content = content;
         }
 
-        public CCcFParser(){
-            this.content = "";
-        }
-
         public void SetContentFromFile(string filePath){
             this.content = File.ReadAllText(filePath);
         }

@@ -6,20 +6,12 @@ using CCcF;
 public class Program {
     static void Main(string[] args)
     {
-        string cccf = @"
-        Settings (text without double colon is a comment)
-
-        - Score::21
-
-        - Name::amonjos
-
-        - Game::Among us
-
-        ";
+        string cccf = File.ReadAllText("./example.cccf");
 
         CCcFParser parser = new CCcFParser(cccf);
-        Console.WriteLine(parser.GetInt("Score"));
+        Console.WriteLine(parser.GetInt("Age"));
         Console.WriteLine(parser.GetString("Name"));
+        Console.WriteLine(parser.GetString("FavouriteFood"));
     }
 }
 

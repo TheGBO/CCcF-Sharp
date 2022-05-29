@@ -14,7 +14,7 @@
     "version": "0.0.1",
     "restore": {
       "projectUniqueName": "D:\\Programming\\CCcF\\CCcF.csproj",
-      "projectName": "AppLogger",
+      "projectName": "CCcFSharp",
       "projectPath": "D:\\Programming\\CCcF\\CCcF.csproj",
       "packagesPath": "C:\\Users\\TheGBO\\.nuget\\packages\\",
       "outputPath": "D:\\Programming\\CCcF\\obj\\",

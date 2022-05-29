@@ -9,6 +9,7 @@
     <Version>0.0.1</Version>
     <Authors>TheGBO</Authors>
     <Company>TheGBO</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
